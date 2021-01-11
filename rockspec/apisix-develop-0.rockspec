@@ -58,7 +58,7 @@ dependencies = {
     "resty-redis-cluster = 1.02-4",
     "lua-resty-expr = 1.0.0",
     "graphql = 0.0.2",
-    "luasocket = 2.0.2",
+    "luasocket",
 }
 
 build = {
